@@ -21,5 +21,5 @@ jobs:
             context: /
             push: true
             # tags: ${{ DOCKER_USERNAME }}/dockergithub:latest
-            tags: VLXMDE/dockergithub:latest
+            tags: VLXMDE/dockergithub
     
